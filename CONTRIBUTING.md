@@ -1,4 +1,4 @@
-# Contributing Guide to `@reason-react-native/__template__`
+# Contributing Guide to `@reason-react-native`
 
 We love your input! We want to make contributing to this project as easy and
 transparent as possible, whether it's:

@@ -2,7 +2,7 @@
 
 **Before submitting a pull request,** please make you followed our CONTRIBUTING guide
 
-https://github.com/reason-react-native/.github/blob/master/CONTRIBUTING.md
+https://github.com/rescript-react-native/.github/blob/master/CONTRIBUTING.md
 
 -->
 

@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@reason-react-native/github",
+  "name": "@rescript-react-native/github",
   "license": "MIT",
   "scripts": {
     "format": "prettier --write \"**/*.{md,json,js,css}\""

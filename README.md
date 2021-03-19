@@ -1,6 +1,6 @@
-# `@reason-react-native/.github`
+# `@rescript-react-native/.github`
 
-[![Chat](https://img.shields.io/discord/235176658175262720.svg?logo=discord&colorb=blue)](https://reason-react-native.github.io/discord/)
+[![ReScript Forum](https://img.shields.io/discourse/posts?color=e6484f&label=ReScript%20Forum&server=https%3A%2F%2Fforum.rescript-lang.org)](https://forum.rescript-lang.org/)
 
 > Org-level configuration and defaults.
 

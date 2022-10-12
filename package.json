@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "@rescript-react-native/github",
+  "funding": "https://github.com/rescript-react-native/rescript-react-native?sponsor=1",
   "license": "MIT",
   "scripts": {
     "format": "prettier --write \"**/*.{md,json,js,css}\""

@@ -46,7 +46,7 @@ To make a pull request, you need to:
 3. Install dependencies using npm
 
 ```console
-npm
+npm install
 ```
 
 3. Create a local branch, from `master` (unless specified differently)

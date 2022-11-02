@@ -43,10 +43,10 @@ To make a pull request, you need to:
 
 1. [Fork the repo](https://help.github.com/en/articles/fork-a-repo)
 2. Clone it
-3. Install dependencies using [Yarn](https://yarnpkg.com/)
+3. Install dependencies using npm
 
 ```console
-yarn
+npm
 ```
 
 3. Create a local branch, from `master` (unless specified differently)
@@ -63,7 +63,7 @@ git checkout -b <name-of-your-branch>
 5. Ensure the everything is still fine.
 
 ```console
-yarn test
+npm run test
 ```
 
 6. Commit & push your branch online

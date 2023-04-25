@@ -7,8 +7,8 @@
     "format": "prettier --write \"**/*.{md,json,js,css}\""
   },
   "devDependencies": {
-    "husky": "^4.0.0",
-    "lint-staged": "^10.0.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.1",
     "prettier": "^2.0.0"
   },
   "prettier": {
